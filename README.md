@@ -7,7 +7,7 @@ Suppose you have a string of a certain length consisting of all "a," "b," and "c
 
 For example, in the string "aabcbc," there are six combinations of "abc." 
 
-Specifically, Jason supplied us with a generated string of a million characters, which we were asked to parse.
+Specifically, Jason supplied us with a generated string of a million characters, which we were asked to parse. With a string of a million characters, the problem was given an extra twist in that performance became a consideration.
 
 abc problem
 =======
