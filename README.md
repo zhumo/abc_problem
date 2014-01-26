@@ -28,6 +28,10 @@ further steps
 =======
 The next challenge is to allow for the desired string to have repeated characters. For example, finding the total occurrences of "aabc" in a string. Stay tuned!
 
+latest notes:
+!(x) = x + (x-1) + (x-2) + (x-3) + ... + 0 = (x^2 + x)/2
+
+
 
 credits
 =======
