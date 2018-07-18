@@ -1,7 +1,7 @@
 Overview
 =======
 
-This is a problem first posed to my group by my mentor at Launch Academy, Jason Zopf (github.com/jzgit). The problem is as follows:
+The ABC problem goes as follows:
 
 Suppose you have a string of a certain length consisting of all "a," "b," and "c." How many combinations of "abc" are possible, reading from left to right?
 
